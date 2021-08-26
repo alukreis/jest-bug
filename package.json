@@ -1,0 +1,15 @@
+{
+  "name": "jest_react_hook_bug",
+  "version": "1.0.0",
+  "description": "bug replication of react hooks and jest isolated modules bug",
+  "main": "index.js",
+  "author": "Lukas R <alukreis@gmail.com>",
+  "license": "GNU v3",
+  "private": true,
+  "dependencies": {
+    "@testing-library/react": "^12.0.0",
+    "jest": "^27.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
